@@ -1,0 +1,145 @@
+body{
+    color: #ffffff;
+    font-size: 16px;
+}
+
+ul, li, a{
+    display: block;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+#header{
+    background: url(../img/Bg.png) no-repeat center;
+    background-size: cover;
+    height: 100vh;
+    padding-top: 10px;
+}
+
+.logo{
+    
+}
+
+.menu{
+
+}
+
+.menu__item{
+    margin: 0 20px;
+}
+
+.menu__item a{
+    font-size: 21px;
+    font-weight: 700;
+    color: #ffffff;
+    font-family: "Gentium Book Basic";
+}
+
+.menu__item a:hover{
+    text-decoration: none;
+}
+
+.socials__item{
+    margin: 0 10px;
+}
+
+.socials__item a i{
+    color: #dab33e;
+}
+
+.wrap{
+    text-align: center;
+    margin-top: 260px;
+}
+
+.wrap__pic{
+    margin-top: 15px;
+}
+
+.wrap__main{
+    opacity: 0.92;
+    text-shadow: 1px 1px 2px rgba(1, 1, 1, 0.64);
+    color: #ffffff;
+    font-family: "Yeseva One";
+    font-size: 90px;
+    font-weight: 400;
+}
+
+.wrapper{
+    margin-top: 25px;
+}
+
+.wrap__link{
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #000000;
+    opacity: 0.8;
+    padding: 15px 40px;
+    margin-right: 15px;
+    margin-left: 15px;
+    border: 1px solid #000000;
+    transition: all 0.3s;
+}
+
+.wrap__link:hover{
+    text-decoration: none;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+    opacity: 0.7;
+}
+
+#food{
+    background: url(../img/2-layers.png) no-repeat center;
+    background-size: cover;
+    height: 90vh;
+}
+
+.aside{
+    text-align: center;
+    margin-top: 130px;
+}
+
+.aside__main{
+    color: #cc9900;
+    font-family: "Yeseva One";
+    font-size: 36px;
+    font-weight: 400;  
+}
+
+.aside__pic{
+    margin-bottom: 40px;
+}
+
+.aside__text{
+    color: #4c4c4c;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 60px;
+}
+
+.aside__desc{
+    margin-left: 55px;
+}
+
+#ingredients{
+    background: url(../img/bg3.png) no-repeat center;
+    background-size: cover;
+    height: 90vh;
+}
+
+.fine{
+    border: 1px solid #fbf7c0;
+    background-color: #000000;
+    opacity: 0.8;
+    text-align: center;
+}
+
+.fine__main{
+    
+}
